@@ -1,0 +1,14 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/server.js"
+  },
+  "author": " Vinicius Werneck",
+  "license": "ISC",
+  "description": "API desenvolvida no programa explorer da RocketSeat",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
